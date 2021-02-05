@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-<img width="800px" src="./assets/assets/dev.finance.gif" alt="Exemplo da aplicação">
+<img  src="./assets/assets/dev.finance.gif" alt="Exemplo da aplicação">
 </div>
 
 
