@@ -70,6 +70,7 @@ const Transaction = {
     }
 }
 
+
 const DOM = {
     transactionsContainer: document.querySelector('#data-table tbody'),
 
