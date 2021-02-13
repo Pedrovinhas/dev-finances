@@ -23,6 +23,8 @@ html {
 body {
     background: var(--bg);
     font-family: 'Poppins', sans-serif;
+
+
 }
 
 .sr-only {
@@ -40,6 +42,9 @@ body {
 .container {
     width: min(90vw, 800px);
     margin: auto;
+    
+    animation: fade-in 1.5s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+
     
 }
 
@@ -188,6 +193,8 @@ label:active:after {
 
     margin-bottom: 2rem;
     color: var(--head);
+
+
 }
 
 .card h3 {
@@ -371,3 +378,15 @@ footer {
         gap: 2rem;
     }
 }
+
+
+/* ============= ANIMATIONS ============ */
+
+@keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
