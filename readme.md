@@ -48,6 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [X] Adicionar e remover entrada
 - [X] Dark-theme
+- [x] Animations
 - [ ] Toogle
 
 ## 🔌 Como usar
